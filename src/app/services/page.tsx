@@ -23,13 +23,13 @@ const services = [
   {
     id: 4,
     name: "Facials & Skincare",
-    image: "/images/skin.PNG",
+    image: "/images/skin.png",
     description: "Rejuvenate your skin with our facial treatments.",
   },
   {
     id: 5,
     name: "Makeup",
-    image: "/images/makeup.PNG",
+    image: "/images/makeup.png",
     description: "Perfect makeup application for every occasion.",
   },
   {
