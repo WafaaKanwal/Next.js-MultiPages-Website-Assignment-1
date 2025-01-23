@@ -1,4 +1,5 @@
 import Image from "next/image";
+import React from "react";
 
 const services = [
   {
@@ -40,7 +41,7 @@ const services = [
   {
     id: 7,
     name: "Waxing & Threading",
-    image: "/images/wax.AVIF",
+    image: "/images/wax.png",
     description: "Smooth and flawless skin with our services.",
   },
   {
