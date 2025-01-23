@@ -5,7 +5,7 @@ export default function Home() {
       <div className="relative h-screen w-full flex items-center justify-center lg:justify-start lg:items-start bg-cover bg-center bg-no-repeat">
         {/* Background overlay for opacity control */}
         <div
-          className="absolute inset-0 bg-[url('/images/yy.JPG')] bg-cover bg-center bg-no-repeat opacity-70 lg:opacity-100"
+          className="absolute inset-0 bg-[url('/images/yy.png')] bg-cover bg-center bg-no-repeat opacity-70 lg:opacity-100"
         ></div>
 
         {/* Content Section */}
